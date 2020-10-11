@@ -9,8 +9,8 @@ void M74HC164(unsigned char ucByte)
     int x = 0;
     char flag = 0x01;
     
-    CLOCK = 0;
-    
+    CLOCK    = 0;
+    SERIAL_A = 0;
     for(x = 0;x < 8;x++)
     {
          if( (ucByte & flag) == flag ) SERIAL_A = 1;
