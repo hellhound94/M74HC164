@@ -7,6 +7,7 @@ Ambiente de desenvolvimento:
  * M74HC164
  
 Conexões:
+
 PINO 1 M74HC164 -> PORTC5
 
 PINO 8 M74HC164 -> PORTC6
