@@ -8,8 +8,8 @@ Ambiente de desenvolvimento:
  
 Conexões:
 
-PINO 1 M74HC164 -> PORTC5
+PINO 2 M74HC164 -> PORTC5
 
 PINO 8 M74HC164 -> PORTC6
 
-PINOS 2 e 9 em VCC
+PINOS 1 e 9 em VCC
